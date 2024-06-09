@@ -1,5 +1,5 @@
 .s1{
-    margin: 0 10%;
+    margin: 51px 10% 0;
     border: 2px red solid;
 }
 .footer{
@@ -117,4 +117,134 @@
 }
 .img1{
     font-size: 10px;
+}
+.h21{
+    color: #5863E3;
+    font-family: Helvetica;
+    font-size: 17px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    margin-bottom: 7px;
+}
+.h22{
+    color: #000;
+    font-family: Helvetica;
+    font-size: 49px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    width: 371px;
+    height: 112px;
+    margin-bottom: 57px;
+}
+.input1{
+    color: #99999A;
+    font-family: Helvetica;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    padding: 22px 19px;
+    width: 250%;
+}
+.div15{
+    display: flex;
+    flex-direction: column;
+    margin-left: 20px;
+    margin-left: 400px;
+    gap: 25px;
+}
+.input11{
+    color: #99999A;
+    font-family: Helvetica;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    padding: 22px 19px;
+    width:250% ;
+    background: #5968F4;
+}
+.input111{
+    width: 270%;
+height: 338px;
+}
+.div16{
+    display: flex;
+}
+.h31{
+    color: #4E4D54;
+    font-family: Helvetica;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+}
+.h32{
+    color: #99999A;
+    font-family: Helvetica;
+    font-size: 15px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+}
+.div99{
+display: flex;
+flex-direction: column;
+align-items: center;
+}
+.div66{
+    background-color:  #5968F4;
+    border-radius: 50%;
+    width: 60px;
+    height: 60px;
+    border: red 2px solid;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.div91{
+    margin-top: 50px;
+    display: flex;
+    gap: 200px;
+}
+.input111{
+padding: 23px 0px 0 23px;
+}
+.h222{
+    color: #000;
+font-family: Helvetica;
+font-size: 49px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+width: 548px;
+}
+.div55{
+    margin-top: 74px;
+}
+.div21{
+    margin-top: 53px;
+    margin-bottom: 23px;
+    display: flex;
+    gap: 99px;
+}
+.img11{
+    width: 25%;
+    height: 25%;
+}
+@media (max-width=600px){
+    .div16{
+        display: flex;
+        flex-direction: column;
+    }
+    .div91{  
+        display: flex;
+        flex-direction: column;
+    }
+    .div21{
+        display: flex;
+        flex-direction: column;
+    }
 }
